@@ -1,4 +1,5 @@
-![image](https://fastercapital.com/i/Hyperparameter-tuning--Optimizing-Hyperparameters-with-Default-Models--Introduction-to-Hyperparameter-Tuning.webp)
+![image](![image](https://github.com/user-attachments/assets/2d7c0fe1-6a61-4cb3-b886-4c020facd988)
+
 # CV_Hyperparameter_Tuning_Guidebook
 
 Welcome to the **CV_Hyperparameter_Tuning_Guidebook** repository! This repository provides a comprehensive guide to Cross Validation and Hyperparameter Tuning techniques in machine learning. The guide includes practical implementation and theoretical understanding to help optimize your models efficiently.
