@@ -1,4 +1,5 @@
-(![image](https://github.com/user-attachments/assets/2d7c0fe1-6a61-4cb3-b886-4c020facd988)
+![image](https://github.com/user-attachments/assets/48182b5f-261a-4686-96a4-1ab07208859d)
+
 
 # CV_Hyperparameter_Tuning_Guidebook
 
