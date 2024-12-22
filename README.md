@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bad5349e-30ec-42a5-a049-9ad74c4ff84f)
+![image](https://fastercapital.com/i/Hyperparameter-tuning--Optimizing-Hyperparameters-with-Default-Models--Introduction-to-Hyperparameter-Tuning.webp)
 # CV_Hyperparameter_Tuning_Guidebook
 
 Welcome to the **CV_Hyperparameter_Tuning_Guidebook** repository! This repository provides a comprehensive guide to Cross Validation and Hyperparameter Tuning techniques in machine learning. The guide includes practical implementation and theoretical understanding to help optimize your models efficiently.
@@ -8,11 +8,11 @@ This guidebook covers the following key topics for mastering **Cross Validation*
 
 ## 1. **Regularization and Hyperparameter Optimization Introduction**
 - Overview of regularization and the importance of hyperparameter tuning in machine learning.
-- Learn More: https://www.analyticsvidhya.com/blog/2021/08/a-beginners-guide-to-hyperparameter-tuning/
+- Learn More: https://www.ibm.com/think/topics/hyperparameter-tuning
 
 ## 2. **ML Model Training Process**
 - Step-by-step explanation of the model training workflow and its significance in cross validation.
-- Learn More: https://scikit-learn.org/stable/tutorial/statistical_inference/model_selection.html
+- Learn More: https://docs.aws.amazon.com/machine-learning/latest/dg/training-ml-models.html
 
 ## 3. **Breast Cancer Dataset Loading**
 - Loading the breast cancer dataset for use in cross validation and hyperparameter tuning.
